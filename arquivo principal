@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade</title>
+    <style>
+        body {
+            background-color: rgb(99, 102, 99);
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            color: #FFC300;
+        }
+
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+
+        pre {
+            background-color: #FFC300;
+            padding: 10px;
+        }
+
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: white;
+            text-decoration: none;
+            background-color: #FFC300;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+        }
+
+        .content {
+            margin: 20px;
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        @media (max-width: 768px) {
+            .content {
+                margin: 10px;
+                padding: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Assuntos de Matemática "1º Semestre"</h1>
+    <div class="content">
+        <h2>1º Proporcionalidade e semelhança</h2>
+        <p><i>Este conteúdo começa na página <font color="#FFC300">10</font> e termina na página <font color="#FFC300">51</font>.</i></p>
+        <ul>
+            <li>Introdução</li>
+            <li>Proporcionalidade</li>
+            <li>Transformações isométricas</li>
+            <li>Congruência de triângulos</li>
+        </ul>
+    </div>
+    <div class="content">
+        <h2>2º Trigonometria no triângulo</h2>
+        <p><i>Este conteúdo começa na página <font color="#FFC300">52</font> e termina na página <font color="#FFC300">85</font>.</i></p>
+        <ul>
+            <li>Introdução</li>
+            <li>Razões trigonométricas no triângulo retângulo</li>
+            <li>Seno e cosseno de ângulos suplementares</li>
+            <li>Lei dos cossenos</li>
+            <li>Lei dos senos</li>
+            <li>Área de um triângulo qualquer</li>
+        </ul>
+    </div>
+    <div class="content">
+        <h2>3º Razões trigonométricas na circunferência</h2>
+        <p><i>Este conteúdo começa na página <font color="#FFC300">86</font> e termina na página <font color="#FFC300">125</font>.</i></p>
+        <ul>
+            <li>Introdução</li>
+            <li>Arcos de circunferência</li>
+            <li>Ângulo central</li>
+            <li>Medida e comprimento de arcos de circunferência</li>
+            <li>Arcos congruentes</li>
+            <li>Tangente de um arco</li>
+        </ul>
+    </div>
+    <div class="content">
+        <h2>4º Funções trigonométricas</h2>
+        <ul>
+            <li>Funções periódicas</li>
+            <li>Funções Seno</li>
+            <li>Funções cosseno</li>
+            <li>Equações trigonométricas</li>
+            <li>Inequações trigonométricas</li>
+        </ul>
+    </div>
+    <div class="content">
+        <h2>Conhecendo Mais</h2>
+        <pre>Estima-se que até 1900 todo o conhecimento matemático do mundo caberia em apenas 80 livros.
+Atualmente, seriam necessários cerca de 100 mil livros para armazenar todos os ensinamentos e as descobertas obtidas ao longo desses mais de 100 anos.</pre>
+    </div>
+    <div class="content">
+        <a href="https://pnld.ftd.com.br/ensino-medio/matematica-e-suas-tecnologias/prisma-matematica/">Veja já o livro</a>
+        <br>
+    </div>
+</body>
+</html>
